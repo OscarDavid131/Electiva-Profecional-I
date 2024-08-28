@@ -1,0 +1,3 @@
+Hola mundo soy Oscar David Angulo Valencia 
+y estoy mirando el tutorial CURSO DE VIM que envio
+el profe Luis Vejarano para entregar la actividad.
